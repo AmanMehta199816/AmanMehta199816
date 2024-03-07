@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Mehta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img width="446" alt="Screenshot 2024-03-07 060846" src="https://github.com/AmanMehta199816/AmanMehta199816/assets/96304523/79c5f5f5-f680-4e26-b780-67ca9a075e25">
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFoaXNmNmk5ajgxOWk4YWg2bTQwdXp6NTl2eGlmdjJrZHZndGgyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif">
 - 🔭 I’m currently working on **Deep Learning projects**
 
