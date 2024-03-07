@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Mehta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img width="546" alt="Screenshot 2024-03-07 060846" src="https://github.com/AmanMehta199816/AmanMehta199816/assets/96304523/79c5f5f5-f680-4e26-b780-67ca9a075e25">
-
+<img align="right" width="400" src="https://giphy.com/gifs/pc-hacker-desing-f3KwliaH4MLtli8z7D">
 - 🔭 I’m currently working on **Deep Learning projects**
 
 - 🌱 I’m currently learning **NLP**
