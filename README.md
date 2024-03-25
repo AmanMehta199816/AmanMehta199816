@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Mehta</h1>
+<h1 align="center">Hi 👋🏻, I'm Aman Mehta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFoaXNmNmk5ajgxOWk4YWg2bTQwdXp6NTl2eGlmdjJrZHZndGgyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif">
 - 🔭 I’m currently working on **Deep Learning projects**
