@@ -25,3 +25,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=amanmehta199816&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Aman Mehta®™" width="700">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanmehta199816&theme=jolly" width="700">
+
+
+![snake gif](https://github.com/amanmehta199816/amanmehta199816/blob/output/github-contribution-grid-snake.gif)
