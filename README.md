@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/amanmehta1998/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amanmehta1998/code" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/amanmehta_9?igsh=bwzqowc5ejz6mg9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amanmehta_9?igsh=bwzqowc5ejz6mg9x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aman mehta coding classes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aman mehta coding classes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mehtaaman8108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mehtaaman8108" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mehtaaman8108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mehtaaman8108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
